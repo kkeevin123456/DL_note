@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "a7967d7382d3d170",
+    "type": "split",
+    "children": [
+      {
+        "id": "d97af55cb855945f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "14 Unsupervised Learning/GANs - the Basics.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4f0d9331c40e7722",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "14 Unsupervised Learning/GANs - the Basics.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac5c02d596426c46",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9062d0892210420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce5b659b52748940",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22ded71b78ae4fe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c196f1c6318f3d48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "610e6a1c2cf9ea32",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d911f8fb594b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a64a7837143bffc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "14 Unsupervised Learning/GANs - the Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a365eb96b872dae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "14 Unsupervised Learning/GANs - the Basics.md",
+    "14 Unsupervised Learning/Autoencoders & Manifold Learning.md",
+    "14 Unsupervised Learning/UL.md",
+    "14 Unsupervised Learning/Predictive Learning.md",
+    "14 Unsupervised Learning/Manifold Learning & Data Synthesis.md",
+    "14 Unsupervised Learning/Factorization & Dimension Reduction.md",
+    "14 Unsupervised Learning/Clustering.md",
+    "13 Recurrent Neural Networks/Adaptive Computation.md",
+    "13 Recurrent Neural Networks/Untitled.md",
+    "13 Recurrent Neural Networks/Explicit Memory.md"
+  ]
+}
