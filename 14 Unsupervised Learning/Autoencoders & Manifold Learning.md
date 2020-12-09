@@ -1,7 +1,18 @@
-![[ul (12).jpg]]
 ![[ul (13).jpg]]
+* 藍色: encoder
+* 紅色: decoder
+
+---
 ![[ul (14).jpg]]
+* 不用做 uppooling 了，也就是不用去存原本的位置，因為兩邊不是對稱的，可以改成做 upsampling 也就是圖形變大後空出來的那格 左邊乘 0.5，右邊乘 0.5 加起來。
+* 因為 weight 要重新 learn，所以可以把 deconvolution 改成 convolution
+
+
+---
 ![[ul (15).jpg]]
+
+
+---
 ![[ul (16).jpg]]
 ![[ul (17).jpg]]
 

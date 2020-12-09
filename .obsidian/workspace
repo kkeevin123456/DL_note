@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d97af55cb855945f",
+        "id": "4f0d9331c40e7722",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "14 Unsupervised Learning/GANs - the Basics.md",
+            "file": "DL_labs/lab13-2.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "4f0d9331c40e7722",
+        "id": "878408fbcc761fe8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "14 Unsupervised Learning/GANs - the Basics.md",
+            "file": "DL_labs/lab13-2.md",
             "mode": "preview"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vanishing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 Unsupervised Learning/GANs - the Basics.md",
+                "file": "DL_labs/lab13-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "14 Unsupervised Learning/GANs - the Basics.md",
+    "DL_labs/lab13-2.md",
+    "ssh/ssh guide.md",
+    "ssh/Untitled.md",
     "14 Unsupervised Learning/Autoencoders & Manifold Learning.md",
-    "14 Unsupervised Learning/UL.md",
+    "14 Unsupervised Learning/Untitled.md",
     "14 Unsupervised Learning/Predictive Learning.md",
-    "14 Unsupervised Learning/Manifold Learning & Data Synthesis.md",
-    "14 Unsupervised Learning/Factorization & Dimension Reduction.md",
-    "14 Unsupervised Learning/Clustering.md",
-    "13 Recurrent Neural Networks/Adaptive Computation.md",
-    "13 Recurrent Neural Networks/Untitled.md",
-    "13 Recurrent Neural Networks/Explicit Memory.md"
+    "14 Unsupervised Learning/W-GAN.md",
+    "14 Unsupervised Learning/GANs - the Basics.md",
+    "12 Convolutional Neural Networks/Pooling.md",
+    "14 Unsupervised Learning/GAN Challenges - Balancing g and f.md"
   ]
 }
